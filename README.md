@@ -27,7 +27,7 @@ A robust, production-ready Authentication System built with the MERN stack (Mong
 
 1. **Clone the repository** (if you haven't already):
    ```bash
-   git clone <https://github.com/aswinsivadas-tech/Jwt-Auth-MERN>
+   git clone https://github.com/aswinsivadas-tech/Jwt-Auth-MERN
    cd Jwt-Auth-MERN
    ```
 
